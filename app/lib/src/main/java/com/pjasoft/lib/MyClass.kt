@@ -74,4 +74,7 @@ fun main(){
         // git commit --amend
         // OTRO CAMBIO
         // ULTIMO CAMBIO DE MENSO!!!
+        val variable = ""
+        val testing = 2
+        val nose = 1.0
 }
