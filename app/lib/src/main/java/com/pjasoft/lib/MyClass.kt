@@ -74,4 +74,16 @@ fun main(){
         // git commit --amend
         // OTRO CAMBIO
         // ULTIMO CAMBIO DE MENSO!!!
+        kjñdnasfk{nasdfnjkadsjkng
+        ODIO A MI JEFE!!
+
+                DETESTO MI VIDA
+
+
+            LÑMD}GFMSD}FM
+        }
 }
+
+        FDGNLDSFNGÑSDKFNG}KS
+
+        SADFKLAN{DG{LAG}}
